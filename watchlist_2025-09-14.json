@@ -1,0 +1,25 @@
+{
+    "action_signals": [],
+    "watchlist_candidates": [
+        {
+            "ticker": "BATAINDIA.NS",
+            "name": "Bata India Limited"
+        },
+        {
+            "ticker": "IEX.NS",
+            "name": "Indian Energy Exchange Limited"
+        },
+        {
+            "ticker": "IRCON.NS",
+            "name": "Ircon International Limited"
+        },
+        {
+            "ticker": "RPOWER.NS",
+            "name": "Reliance Power Limited"
+        },
+        {
+            "ticker": "STAR.NS",
+            "name": "Strides Pharma Science Limited"
+        }
+    ]
+}
